@@ -9,7 +9,7 @@ All coding portions should go in `main.py` as usual.
 
 ## Determinism versus Randomization in Quicksort
 
-In lecture we saw that adding a random choice of pivot reduced the
+In lecture, we saw that adding a random choice of pivot reduced the
 probability of worst-case behavior for any given input in
 selection. Let's look at how pivot choices affect Quicksort. For this
 question, refer to the code in `main.py` 
